@@ -1,0 +1,30 @@
+[submodule "python/ECO-efficient-video-understanding"]
+	path = python/ECO-efficient-video-understanding
+	url = https://github.com/mzolfaghari/ECO-efficient-video-understanding.git
+[submodule "python/ECO-pytorch"]
+	path = python/ECO-pytorch
+	url = https://github.com/mzolfaghari/ECO-pytorch.git
+[submodule "python/Non-local-Neural-Networks-Pytorch"]
+	path = python/Non-local-Neural-Networks-Pytorch
+	url = https://github.com/17Skye17/Non-local-Neural-Networks-Pytorch.git
+[submodule "python/PyTorch-MFNet"]
+	path = python/PyTorch-MFNet
+	url = https://github.com/cypw/PyTorch-MFNet.git
+[submodule "python/TRN-pytorch"]
+	path = python/TRN-pytorch
+	url = https://github.com/metalbubble/TRN-pytorch.git
+[submodule "python/action-recognition-models-pytorch"]
+	path = python/action-recognition-models-pytorch
+	url = https://github.com/MRzzm/action-recognition-models-pytorch.git
+[submodule "python/flownet2-pytorch"]
+	path = python/flownet2-pytorch
+	url = https://github.com/NVIDIA/flownet2-pytorch.git
+[submodule "python/pytorch-video-recognition"]
+	path = python/pytorch-video-recognition
+	url = https://github.com/jfzhang95/pytorch-video-recognition.git
+[submodule "python/tsn-pytorch"]
+	path = python/tsn-pytorch
+	url = https://github.com/yjxiong/tsn-pytorch.git
+[submodule "python/two-stream-pytorch"]
+	path = python/two-stream-pytorch
+	url = https://github.com/bryanyzhu/two-stream-pytorch.git
